@@ -1,5 +1,5 @@
-const {add} =require("/home/dee/my_jasmine_goodies/src/simple_calculator")
-const {multiply} =require("/home/dee/my_jasmine_goodies/src/simple_calculator")
+const {add} =require("/home/dee/simple-calculator-project/src/simple_calculator")
+const {multiply} =require("/home/dee/simple-calculator-project/src/simple_calculator")
 
 describe("add", function(){
     it("should add two numbers",function(){
